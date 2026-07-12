@@ -7,12 +7,12 @@ X-WR-CALNAME:Football Fixtures
 X-WR-CALDESC:Upcoming football fixtures
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:fixture-537385@football-calendar
-DTSTAMP:20260711T023147Z
-DTSTART;TZID=Europe/Berlin:20260711T230000
-DTEND;TZID=Europe/Berlin:20260712T010000
-SUMMARY:Norway vs England 🏆
-DESCRIPTION:Fixture 537385 from football-data.org
+UID:fixture-537387@football-calendar
+DTSTAMP:20260712T023146Z
+DTSTART;TZID=Europe/Berlin:20260714T210000
+DTEND;TZID=Europe/Berlin:20260714T230000
+SUMMARY:France vs Spain 🏆
+DESCRIPTION:Fixture 537387 from football-data.org
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
